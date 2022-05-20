@@ -1,1 +1,2 @@
 # Lou-s-Recipes
+The project is about building a website to view recipes, shop for ingredients or groceries and save recipes to favourite tags. At the end of the project, I should have learnt the use of html, css and javascript to create interactive and responsive website and I should have a finished website as a result.
